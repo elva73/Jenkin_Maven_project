@@ -1,0 +1,3 @@
+Enter this in the Goals section:
+
+install -Dmaven.test.failure.ignore=true  clover:instrument  clover:aggregate  clover:clover
